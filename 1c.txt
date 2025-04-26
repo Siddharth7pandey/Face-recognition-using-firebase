@@ -102,17 +102,13 @@
 
   <!-- Main Content -->
   <div class="content">
-    <img src="Ajit.jpg" alt="Ajit Kumar Pasayat" class="center-image">
+    <img src="xyz.jpg" alt="XYZ" class="center-image">
 
     <div class="info-box" id="teacher">
-      <h2>Ajit Kumar Pasayat</h2>
+      <h2>XYZ</h2>
       <h4>Asst. Professor</h4>
       <p>
-        Ajit Kumar Pasayat is currently working as an Assistant Professor in the School of Computer Science Engineering at Kalinga Institute of Industrial Technology (KIIT), DU, India. 
-        He received B.Tech in Information Technology from C. V. Raman Global University, Bhubaneswar, Odisha, India, 
-        and M.Tech in Information Technology from the Indian Institute of Technology Kharagpur, India, in 2013. 
-        Currently, he is pursuing his Ph.D. in Business Analytics at the Indian Institute of Technology Kharagpur, India. 
-        His research interests include Business Analytics, Artificial Intelligence, Machine Learning, and Deep Learning.
+        Whatever info you want.
       </p>
     </div>
   </div>
